@@ -1,8 +1,7 @@
 // Styling for the masthead
 header.masthead {
   text-align: center;
-  color: white;
-  background-image: url("#{$header-image}");
+  // background-image: url("#{$header-image}");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -25,6 +24,17 @@ header.masthead {
       @include heading-font;
     }
   }
+}
+header.masthead::before {
+      content: "";
+      background-image: url('#{$header-image}');
+      background-size: cover;
+      position: absolute;
+      top: -500px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.2;
 }
 @media (min-width: 768px) {
   header.masthead {
