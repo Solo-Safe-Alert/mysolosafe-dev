@@ -24,6 +24,9 @@ author     : Your Name
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
+logo:     #optional, defaults to site title
+  path: https://mysolosafe.com/wp-content/uploads/2023/12/cropped-Logo3.png
+  height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 

@@ -11,8 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Helping Keep You Safe,
-          No Matter Where You Go.
+    title: Help keep your loved ones safe,
+          no matter where they go.<br />
+          Call 1-833-476-7633
 
 
   services:
@@ -69,8 +70,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "why we do what we do"
+    body: "We're dedicated to enriching the lives of seniors by providing the innovative devices that allow them to live independently with help at the press of a button."
     section: about
 
   clients:
