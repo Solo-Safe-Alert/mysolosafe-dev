@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Solo Safe Alert
 email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
+description: "Keep your loved ones as close as the press of a button"
 author     : Your Name
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
