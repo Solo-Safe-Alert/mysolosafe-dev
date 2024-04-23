@@ -1,19 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Watches
+subtitle: A fashionable watch can keep you safe.
 image: ./assets/img/portfolio/img3.jpg
-alt: Shirts on a hanger
+alt: photo of solo-safe watch
 
 caption:
   title: Watches
-  subtitle: Graphic Design
+  subtitle: For the active person
   thumbnail: ./assets/img/portfolio/img3.jpg
 ---
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Have an alert button wherever you go!
 
-{:.list-inline}
-
-- Date: January 2017
-- Client: Watches
-- Category: Graphic Design
+{% include watch-buy-button.html %}
